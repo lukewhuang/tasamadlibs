@@ -1,0 +1,7 @@
+location1 = input("Enter a location: ")
+noun2 = input("Enter a noun: ")
+noun3 = input("Enter a noun: ")
+noun4 = input("Enter a noun: ")
+adj5 = input("Enter an adjective: ");
+
+print ("testing ", location1)
